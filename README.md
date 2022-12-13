@@ -1,1 +1,1 @@
-# Parallel-Machine-Scheduling-with-contiguity
+# PMSP-INSTANCES
